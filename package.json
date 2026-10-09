@@ -1,0 +1,24 @@
+{
+  "name": "axios-api-practice",
+  "version": "1.0.0",
+  "description": "practice",
+  "keywords": [
+    "Node"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "bingoLost/axios-api-practice"
+  },
+  "license": "ISC",
+  "author": "Erfan",
+  "type": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "server": "node api.js"
+  },
+  "dependencies": {
+    "axios": "^1.20.0",
+    "express": "^5.2.1"
+  }
+}
